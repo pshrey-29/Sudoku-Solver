@@ -7,3 +7,5 @@ This is a backtracking algorithm. The basic idea being that you incrementally bu
 
 - New Puzzle: It will generate a new puzzle 
 - Solve: This will solve the Sudoku
+
+Link: https://pshrey-29.github.io/Sudoku-Solver/
